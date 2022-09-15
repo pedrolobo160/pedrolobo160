@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pedrolobo160
+- 👋 Hi, I’m João Pedro BAhia Lobo
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning computer science - Descomplica + UniAmerica
-- 💞️ I’m looking to collaborate on Seduc.to.gov.br
+- 💞️ I’m looking to collaborate on jobs...in the area of computing
 - 📫 How to reach me instagram @pedrolobo160
 
 <!---
