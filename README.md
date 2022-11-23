@@ -1,7 +1,7 @@
 - 👋 Hi, I’m João Pedro BAhia Lobo
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning computer science - Descomplica + UniAmerica
-- 🌱 Technician in electrotechnics by senai
+- 🌱 Studying technician in electrotechnics by senai
 - 💞️ I’m looking to collaborate on jobs...in the area of computing
 - 📫 How to reach me instagram @pedrolobo299
 
