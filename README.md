@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science - Descomplica + UniAmerica
 - 🌱 Studying technician in electrotechnics by senai
 - 💞️ I’m looking to collaborate on jobs...in the area of computing
-- 📫 How to reach me instagram @jpbahia_lobo
+- 📫 How to reach me instagram @bahiailuminacoes
 
 <!---
 pedrolobo160/pedrolobo160 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
